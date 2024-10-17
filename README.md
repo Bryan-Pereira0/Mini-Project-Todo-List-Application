@@ -1,5 +1,7 @@
 Hello welcome to the instructions on how to use my To-Do list!
+
 Functions include:
+
 Adding tasks to the list
 Removing tasks from the list
 Displaying the To-Do list
